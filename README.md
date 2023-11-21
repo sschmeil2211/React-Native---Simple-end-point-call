@@ -18,6 +18,7 @@ Simple End Point Call is a mobile application developed using React Native and A
 ## Technologies Used
 + React Native
 + Axios
++ Typescript
 
 ## Developers
 Sebastian Schmeil
